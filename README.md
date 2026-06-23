@@ -113,6 +113,9 @@ Dashboard Visualizations:
 * Average Ride Length by Rideable Type
 
 ---
+## Dataset Note
+
+The cleaned dataset is not uploaded due to GitHub file size limitations. The complete analysis can be reproduced using the provided jupiter Notebook and Tableau dashboard.
 
 ## Project Outcome
 
